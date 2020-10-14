@@ -1,4 +1,4 @@
-boolean okToPrint = true;
+
 int const den = 12;
 void setup(){
 Serial.begin(9600);
